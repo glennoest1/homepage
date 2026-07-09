@@ -24,7 +24,7 @@ export function HeroEntranceCard({ primaryLink, loading, onEnter }) {
           Latest Address Entrance
         </h1>
         <p className="mt-5 max-w-2xl text-base leading-8 text-slate-600 sm:text-lg">
-          Choose a verified entrance below or continue through the highest-priority route selected by the navigation service.
+          Choose a verified entrance below or continue through the highest-priority route on this guide page.
         </p>
 
         <button
